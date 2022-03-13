@@ -58,8 +58,7 @@ public final class Parser {
         String line = "";
         List<Record> records = new ArrayList<>();
 
-        try {
-            BufferedReader bufferedReader = new BufferedReader(new FileReader(fileName));
+        try( BufferedReader bufferedReader = new BufferedReader(new FileReader(fileName))) {
             while ((line = bufferedReader.readLine()) != null) {
                 String[] record = line.split(CSV_SPLITTER);
                 Record e = new Record();
