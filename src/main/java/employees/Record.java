@@ -3,25 +3,25 @@ package employees;
 
 import java.time.LocalDate;
 
-public class Employee {
-    private int employeeId;
-    private int projectId;
+public class Record {
+    private String employeeId;
+    private String projectId;
     private LocalDate dateFrom;
     private LocalDate dateTo;
 
-    public int getEmployeeId() {
+    public String getEmployeeId() {
         return employeeId;
     }
 
-    public void setEmployeeId(int employeeId) {
+    public void setEmployeeId(String employeeId) {
         this.employeeId = employeeId;
     }
 
-    public int getProjectId() {
+    public String getProjectId() {
         return projectId;
     }
 
-    public void setProjectId(int projectId) {
+    public void setProjectId(String projectId) {
         this.projectId = projectId;
     }
 

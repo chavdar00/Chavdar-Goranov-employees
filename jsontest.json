@@ -1,0 +1,74 @@
+[
+  {
+    "employeeId":"143",
+    "projectId": "12",
+    "dateFrom":"2013-11-01" ,
+    "dateTo": "2014-01-05"
+  },
+  {
+    "employeeId":"218",
+    "projectId": "10",
+    "dateFrom":"2008-05-16" ,
+    "dateTo": "NULL"
+  },
+  {
+    "employeeId":"143",
+    "projectId": "10",
+    "dateFrom":"2009-01-01" ,
+    "dateTo": "2010-01-01"
+  },
+  {
+    "employeeId":"146",
+    "projectId": "10",
+    "dateFrom":"2009-01-01" ,
+    "dateTo": "2011-04-28"
+  },
+  {
+    "employeeId":"142",
+    "projectId": "10",
+    "dateFrom":"2010-01-01" ,
+    "dateTo": "2011-04-28"
+  },
+  {
+    "employeeId":"141",
+    "projectId": "6",
+    "dateFrom":"2009-01-01" ,
+    "dateTo": "2009-04-28"
+  },
+  {
+    "employeeId":"143",
+    "projectId": "4",
+    "dateFrom":"2009-01-01" ,
+    "dateTo": "2010-01-01"
+  },
+  {
+    "employeeId":"149",
+    "projectId": "4",
+    "dateFrom":"2009-01-01" ,
+    "dateTo": "NULL"
+  },
+  {
+    "employeeId":"146",
+    "projectId": "6",
+    "dateFrom":"2009-01-01" ,
+    "dateTo": "NULL"
+  },
+  {
+    "employeeId":"142",
+    "projectId": "6",
+    "dateFrom":"2009-01-01" ,
+    "dateTo": "2011-04-28"
+  },
+  {
+    "employeeId":"146",
+    "projectId": "7",
+    "dateFrom":"2009-01-01" ,
+    "dateTo": "NULL"
+  },
+  {
+    "employeeId":"142",
+    "projectId": "7",
+    "dateFrom":"2001-01-01",
+    "dateTo": "2009-01-01"
+  }
+]
